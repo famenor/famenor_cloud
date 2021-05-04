@@ -1,0 +1,644 @@
+[2021-04-21 19:11:31,195] {scheduler_job.py:181} INFO - Started process (PID=4922) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 19:11:31,199] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 19:11:31,199] {logging_mixin.py:103} INFO - [2021-04-21 19:11:31,199] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 19:11:31,208] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 19:11:31,208] {logging_mixin.py:103} INFO - [2021-04-21 19:11:31,208] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 19:11:31,223] {logging_mixin.py:103} INFO - [2021-04-21 19:11:31,223] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 19:11:31,231] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.038 seconds
+[2021-04-21 19:12:01,970] {scheduler_job.py:181} INFO - Started process (PID=4948) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 19:12:01,971] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 19:12:01,971] {logging_mixin.py:103} INFO - [2021-04-21 19:12:01,971] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 19:12:01,980] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 19:12:01,981] {logging_mixin.py:103} INFO - [2021-04-21 19:12:01,981] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 19:12:01,995] {logging_mixin.py:103} INFO - [2021-04-21 19:12:01,995] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 19:12:02,017] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.050 seconds
+[2021-04-21 21:02:47,212] {scheduler_job.py:181} INFO - Started process (PID=5598) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:02:47,214] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:02:47,215] {logging_mixin.py:103} INFO - [2021-04-21 21:02:47,215] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:02:47,225] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:02:47,225] {logging_mixin.py:103} INFO - [2021-04-21 21:02:47,225] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:02:47,241] {logging_mixin.py:103} INFO - [2021-04-21 21:02:47,240] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:02:47,262] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.052 seconds
+[2021-04-21 21:03:18,198] {scheduler_job.py:181} INFO - Started process (PID=5633) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:03:18,199] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:03:18,199] {logging_mixin.py:103} INFO - [2021-04-21 21:03:18,199] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:03:18,209] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:03:18,209] {logging_mixin.py:103} INFO - [2021-04-21 21:03:18,209] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:03:18,225] {logging_mixin.py:103} INFO - [2021-04-21 21:03:18,225] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:03:18,238] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:03:48,987] {scheduler_job.py:181} INFO - Started process (PID=5662) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:03:48,988] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:03:48,988] {logging_mixin.py:103} INFO - [2021-04-21 21:03:48,988] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:03:48,997] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:03:48,998] {logging_mixin.py:103} INFO - [2021-04-21 21:03:48,998] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:03:49,013] {logging_mixin.py:103} INFO - [2021-04-21 21:03:49,013] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:03:49,026] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2021-04-21 21:04:19,686] {scheduler_job.py:181} INFO - Started process (PID=5689) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:04:19,686] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:04:19,687] {logging_mixin.py:103} INFO - [2021-04-21 21:04:19,687] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:04:19,696] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:04:19,697] {logging_mixin.py:103} INFO - [2021-04-21 21:04:19,697] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:04:19,711] {logging_mixin.py:103} INFO - [2021-04-21 21:04:19,711] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:04:19,724] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2021-04-21 21:04:50,452] {scheduler_job.py:181} INFO - Started process (PID=5715) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:04:50,453] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:04:50,453] {logging_mixin.py:103} INFO - [2021-04-21 21:04:50,453] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:04:50,462] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:04:50,463] {logging_mixin.py:103} INFO - [2021-04-21 21:04:50,463] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:04:50,478] {logging_mixin.py:103} INFO - [2021-04-21 21:04:50,478] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:04:50,492] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:05:21,148] {scheduler_job.py:181} INFO - Started process (PID=5743) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:05:21,149] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:05:21,149] {logging_mixin.py:103} INFO - [2021-04-21 21:05:21,149] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:05:21,158] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:05:21,159] {logging_mixin.py:103} INFO - [2021-04-21 21:05:21,159] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:05:21,174] {logging_mixin.py:103} INFO - [2021-04-21 21:05:21,173] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:05:21,187] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2021-04-21 21:05:51,916] {scheduler_job.py:181} INFO - Started process (PID=5769) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:05:51,916] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:05:51,917] {logging_mixin.py:103} INFO - [2021-04-21 21:05:51,917] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:05:51,926] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:05:51,927] {logging_mixin.py:103} INFO - [2021-04-21 21:05:51,927] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:05:51,942] {logging_mixin.py:103} INFO - [2021-04-21 21:05:51,942] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:05:51,955] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:06:22,611] {scheduler_job.py:181} INFO - Started process (PID=5796) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:06:22,612] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:06:22,613] {logging_mixin.py:103} INFO - [2021-04-21 21:06:22,613] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:06:22,622] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:06:22,622] {logging_mixin.py:103} INFO - [2021-04-21 21:06:22,622] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:06:22,638] {logging_mixin.py:103} INFO - [2021-04-21 21:06:22,638] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:06:22,651] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:06:53,384] {scheduler_job.py:181} INFO - Started process (PID=5822) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:06:53,385] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:06:53,386] {logging_mixin.py:103} INFO - [2021-04-21 21:06:53,386] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:06:53,395] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:06:53,396] {logging_mixin.py:103} INFO - [2021-04-21 21:06:53,396] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:06:53,411] {logging_mixin.py:103} INFO - [2021-04-21 21:06:53,411] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:06:53,424] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:07:23,948] {scheduler_job.py:181} INFO - Started process (PID=5849) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:07:23,949] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:07:23,949] {logging_mixin.py:103} INFO - [2021-04-21 21:07:23,949] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:07:23,958] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:07:23,959] {logging_mixin.py:103} INFO - [2021-04-21 21:07:23,959] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:07:23,974] {logging_mixin.py:103} INFO - [2021-04-21 21:07:23,974] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:07:23,987] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:07:54,720] {scheduler_job.py:181} INFO - Started process (PID=5875) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:07:54,721] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:07:54,721] {logging_mixin.py:103} INFO - [2021-04-21 21:07:54,721] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:07:54,731] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:07:54,732] {logging_mixin.py:103} INFO - [2021-04-21 21:07:54,732] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:07:54,747] {logging_mixin.py:103} INFO - [2021-04-21 21:07:54,747] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:07:54,760] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:08:25,380] {scheduler_job.py:181} INFO - Started process (PID=5902) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:08:25,381] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:08:25,381] {logging_mixin.py:103} INFO - [2021-04-21 21:08:25,381] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:08:25,391] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:08:25,392] {logging_mixin.py:103} INFO - [2021-04-21 21:08:25,392] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:08:25,407] {logging_mixin.py:103} INFO - [2021-04-21 21:08:25,407] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:08:25,421] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:08:55,945] {scheduler_job.py:181} INFO - Started process (PID=5928) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:08:55,946] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:08:55,947] {logging_mixin.py:103} INFO - [2021-04-21 21:08:55,947] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:08:55,956] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:08:55,957] {logging_mixin.py:103} INFO - [2021-04-21 21:08:55,957] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:08:55,972] {logging_mixin.py:103} INFO - [2021-04-21 21:08:55,972] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:08:55,986] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:09:26,720] {scheduler_job.py:181} INFO - Started process (PID=5955) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:09:26,721] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:09:26,721] {logging_mixin.py:103} INFO - [2021-04-21 21:09:26,721] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:09:26,731] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:09:26,732] {logging_mixin.py:103} INFO - [2021-04-21 21:09:26,732] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:09:26,747] {logging_mixin.py:103} INFO - [2021-04-21 21:09:26,747] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:09:26,761] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.044 seconds
+[2021-04-21 21:09:57,375] {scheduler_job.py:181} INFO - Started process (PID=5981) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:09:57,376] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:09:57,376] {logging_mixin.py:103} INFO - [2021-04-21 21:09:57,376] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:09:57,385] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:09:57,386] {logging_mixin.py:103} INFO - [2021-04-21 21:09:57,386] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:09:57,401] {logging_mixin.py:103} INFO - [2021-04-21 21:09:57,401] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:09:57,414] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:10:28,040] {scheduler_job.py:181} INFO - Started process (PID=6014) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:10:28,041] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:10:28,041] {logging_mixin.py:103} INFO - [2021-04-21 21:10:28,041] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:10:28,051] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:10:28,052] {logging_mixin.py:103} INFO - [2021-04-21 21:10:28,052] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:10:28,067] {logging_mixin.py:103} INFO - [2021-04-21 21:10:28,067] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:10:28,081] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:10:58,810] {scheduler_job.py:181} INFO - Started process (PID=6041) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:10:58,811] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:10:58,811] {logging_mixin.py:103} INFO - [2021-04-21 21:10:58,811] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:10:58,820] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:10:58,821] {logging_mixin.py:103} INFO - [2021-04-21 21:10:58,821] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:10:58,836] {logging_mixin.py:103} INFO - [2021-04-21 21:10:58,836] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:10:58,849] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2021-04-21 21:11:30,509] {scheduler_job.py:181} INFO - Started process (PID=6069) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:11:30,510] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:11:30,511] {logging_mixin.py:103} INFO - [2021-04-21 21:11:30,510] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:11:30,520] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:11:30,521] {logging_mixin.py:103} INFO - [2021-04-21 21:11:30,521] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:11:30,536] {logging_mixin.py:103} INFO - [2021-04-21 21:11:30,536] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:11:30,550] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:12:00,779] {scheduler_job.py:181} INFO - Started process (PID=6095) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:12:00,780] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:12:00,780] {logging_mixin.py:103} INFO - [2021-04-21 21:12:00,780] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:12:00,790] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:12:00,791] {logging_mixin.py:103} INFO - [2021-04-21 21:12:00,791] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:12:00,806] {logging_mixin.py:103} INFO - [2021-04-21 21:12:00,806] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:12:00,820] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.044 seconds
+[2021-04-21 21:12:31,050] {scheduler_job.py:181} INFO - Started process (PID=6122) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:12:31,051] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:12:31,052] {logging_mixin.py:103} INFO - [2021-04-21 21:12:31,052] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:12:31,061] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:12:31,062] {logging_mixin.py:103} INFO - [2021-04-21 21:12:31,062] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:12:31,077] {logging_mixin.py:103} INFO - [2021-04-21 21:12:31,077] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:12:31,092] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.044 seconds
+[2021-04-21 21:13:02,470] {scheduler_job.py:181} INFO - Started process (PID=6148) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:13:02,470] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:13:02,471] {logging_mixin.py:103} INFO - [2021-04-21 21:13:02,471] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:13:02,480] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:13:02,481] {logging_mixin.py:103} INFO - [2021-04-21 21:13:02,481] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:13:02,496] {logging_mixin.py:103} INFO - [2021-04-21 21:13:02,496] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:13:02,509] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2021-04-21 21:13:33,033] {scheduler_job.py:181} INFO - Started process (PID=6175) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:13:33,034] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:13:33,035] {logging_mixin.py:103} INFO - [2021-04-21 21:13:33,035] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:13:33,044] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:13:33,045] {logging_mixin.py:103} INFO - [2021-04-21 21:13:33,045] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:13:33,060] {logging_mixin.py:103} INFO - [2021-04-21 21:13:33,060] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:13:33,074] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:14:03,808] {scheduler_job.py:181} INFO - Started process (PID=6201) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:14:03,809] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:14:03,810] {logging_mixin.py:103} INFO - [2021-04-21 21:14:03,809] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:14:03,819] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:14:03,819] {logging_mixin.py:103} INFO - [2021-04-21 21:14:03,819] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:14:03,834] {logging_mixin.py:103} INFO - [2021-04-21 21:14:03,834] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:14:03,847] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2021-04-21 21:15:19,343] {scheduler_job.py:181} INFO - Started process (PID=6232) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:15:19,347] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:15:19,347] {logging_mixin.py:103} INFO - [2021-04-21 21:15:19,347] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:15:19,356] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:15:19,356] {logging_mixin.py:103} INFO - [2021-04-21 21:15:19,356] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:15:19,370] {logging_mixin.py:103} INFO - [2021-04-21 21:15:19,370] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:15:19,379] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.038 seconds
+[2021-04-21 21:15:50,130] {scheduler_job.py:181} INFO - Started process (PID=6258) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:15:50,131] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:15:50,131] {logging_mixin.py:103} INFO - [2021-04-21 21:15:50,131] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:15:50,141] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:15:50,141] {logging_mixin.py:103} INFO - [2021-04-21 21:15:50,141] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:15:50,157] {logging_mixin.py:103} INFO - [2021-04-21 21:15:50,157] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:15:50,178] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.051 seconds
+[2021-04-21 21:16:20,899] {scheduler_job.py:181} INFO - Started process (PID=6286) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:16:20,900] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:16:20,900] {logging_mixin.py:103} INFO - [2021-04-21 21:16:20,900] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:16:20,909] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:16:20,910] {logging_mixin.py:103} INFO - [2021-04-21 21:16:20,910] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:16:20,925] {logging_mixin.py:103} INFO - [2021-04-21 21:16:20,925] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:16:20,939] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:16:51,598] {scheduler_job.py:181} INFO - Started process (PID=6317) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:16:51,599] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:16:51,599] {logging_mixin.py:103} INFO - [2021-04-21 21:16:51,599] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:16:51,608] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:16:51,609] {logging_mixin.py:103} INFO - [2021-04-21 21:16:51,609] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:16:51,624] {logging_mixin.py:103} INFO - [2021-04-21 21:16:51,624] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:16:51,638] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:17:22,362] {scheduler_job.py:181} INFO - Started process (PID=6347) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:17:22,363] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:17:22,363] {logging_mixin.py:103} INFO - [2021-04-21 21:17:22,363] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:17:22,372] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:17:22,373] {logging_mixin.py:103} INFO - [2021-04-21 21:17:22,373] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:17:22,388] {logging_mixin.py:103} INFO - [2021-04-21 21:17:22,388] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:17:22,401] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2021-04-21 21:17:53,029] {scheduler_job.py:181} INFO - Started process (PID=6375) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:17:53,029] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:17:53,030] {logging_mixin.py:103} INFO - [2021-04-21 21:17:53,030] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:17:53,039] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:17:53,040] {logging_mixin.py:103} INFO - [2021-04-21 21:17:53,040] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:17:53,054] {logging_mixin.py:103} INFO - [2021-04-21 21:17:53,054] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:17:53,067] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2021-04-21 21:18:23,795] {scheduler_job.py:181} INFO - Started process (PID=6448) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:18:23,796] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:18:23,797] {logging_mixin.py:103} INFO - [2021-04-21 21:18:23,797] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:18:23,806] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:18:23,807] {logging_mixin.py:103} INFO - [2021-04-21 21:18:23,807] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:18:23,822] {logging_mixin.py:103} INFO - [2021-04-21 21:18:23,822] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:18:23,836] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:18:54,579] {scheduler_job.py:181} INFO - Started process (PID=6477) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:18:54,580] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:18:54,581] {logging_mixin.py:103} INFO - [2021-04-21 21:18:54,581] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:18:54,590] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:18:54,591] {logging_mixin.py:103} INFO - [2021-04-21 21:18:54,591] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:18:54,606] {logging_mixin.py:103} INFO - [2021-04-21 21:18:54,606] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:18:54,619] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:19:25,351] {scheduler_job.py:181} INFO - Started process (PID=6507) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:19:25,352] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:19:25,353] {logging_mixin.py:103} INFO - [2021-04-21 21:19:25,353] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:19:25,362] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:19:25,363] {logging_mixin.py:103} INFO - [2021-04-21 21:19:25,363] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:19:25,377] {logging_mixin.py:103} INFO - [2021-04-21 21:19:25,377] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:19:25,390] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2021-04-21 21:19:56,018] {scheduler_job.py:181} INFO - Started process (PID=6536) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:19:56,019] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:19:56,020] {logging_mixin.py:103} INFO - [2021-04-21 21:19:56,020] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:19:56,029] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:19:56,029] {logging_mixin.py:103} INFO - [2021-04-21 21:19:56,029] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:19:56,044] {logging_mixin.py:103} INFO - [2021-04-21 21:19:56,044] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:19:56,057] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2021-04-21 21:20:26,586] {scheduler_job.py:181} INFO - Started process (PID=6569) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:20:26,587] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:20:26,587] {logging_mixin.py:103} INFO - [2021-04-21 21:20:26,587] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:20:26,596] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:20:26,597] {logging_mixin.py:103} INFO - [2021-04-21 21:20:26,597] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:20:26,612] {logging_mixin.py:103} INFO - [2021-04-21 21:20:26,612] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:20:26,626] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:20:57,364] {scheduler_job.py:181} INFO - Started process (PID=6595) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:20:57,365] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:20:57,365] {logging_mixin.py:103} INFO - [2021-04-21 21:20:57,365] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:20:57,375] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:20:57,375] {logging_mixin.py:103} INFO - [2021-04-21 21:20:57,375] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:20:57,391] {logging_mixin.py:103} INFO - [2021-04-21 21:20:57,390] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:20:57,404] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:21:28,034] {scheduler_job.py:181} INFO - Started process (PID=6623) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:21:28,035] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:21:28,035] {logging_mixin.py:103} INFO - [2021-04-21 21:21:28,035] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:21:28,044] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:21:28,045] {logging_mixin.py:103} INFO - [2021-04-21 21:21:28,045] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:21:28,060] {logging_mixin.py:103} INFO - [2021-04-21 21:21:28,060] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:21:28,074] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:21:58,703] {scheduler_job.py:181} INFO - Started process (PID=6649) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:21:58,704] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:21:58,704] {logging_mixin.py:103} INFO - [2021-04-21 21:21:58,704] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:21:58,714] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:21:58,714] {logging_mixin.py:103} INFO - [2021-04-21 21:21:58,714] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:21:58,729] {logging_mixin.py:103} INFO - [2021-04-21 21:21:58,729] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:21:58,743] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:22:29,474] {scheduler_job.py:181} INFO - Started process (PID=6676) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:22:29,475] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:22:29,476] {logging_mixin.py:103} INFO - [2021-04-21 21:22:29,476] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:22:29,485] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:22:29,486] {logging_mixin.py:103} INFO - [2021-04-21 21:22:29,486] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:22:29,501] {logging_mixin.py:103} INFO - [2021-04-21 21:22:29,501] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:22:29,514] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:23:00,039] {scheduler_job.py:181} INFO - Started process (PID=6704) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:23:00,040] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:23:00,040] {logging_mixin.py:103} INFO - [2021-04-21 21:23:00,040] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:23:00,049] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:23:00,050] {logging_mixin.py:103} INFO - [2021-04-21 21:23:00,050] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:23:00,066] {logging_mixin.py:103} INFO - [2021-04-21 21:23:00,065] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:23:00,080] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:23:30,703] {scheduler_job.py:181} INFO - Started process (PID=6731) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:23:30,704] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:23:30,704] {logging_mixin.py:103} INFO - [2021-04-21 21:23:30,704] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:23:30,714] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:23:30,714] {logging_mixin.py:103} INFO - [2021-04-21 21:23:30,714] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:23:30,730] {logging_mixin.py:103} INFO - [2021-04-21 21:23:30,730] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:23:30,744] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:24:01,443] {scheduler_job.py:181} INFO - Started process (PID=6757) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:24:01,444] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:24:01,445] {logging_mixin.py:103} INFO - [2021-04-21 21:24:01,444] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:24:01,453] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:24:01,454] {logging_mixin.py:103} INFO - [2021-04-21 21:24:01,454] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:24:01,469] {logging_mixin.py:103} INFO - [2021-04-21 21:24:01,469] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:24:01,482] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2021-04-21 21:24:33,150] {scheduler_job.py:181} INFO - Started process (PID=6785) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:24:33,151] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:24:33,151] {logging_mixin.py:103} INFO - [2021-04-21 21:24:33,151] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:24:33,160] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:24:33,161] {logging_mixin.py:103} INFO - [2021-04-21 21:24:33,161] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:24:33,176] {logging_mixin.py:103} INFO - [2021-04-21 21:24:33,176] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:24:33,190] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:25:03,420] {scheduler_job.py:181} INFO - Started process (PID=6811) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:25:03,421] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:25:03,421] {logging_mixin.py:103} INFO - [2021-04-21 21:25:03,421] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:25:03,430] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:25:03,431] {logging_mixin.py:103} INFO - [2021-04-21 21:25:03,431] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:25:03,446] {logging_mixin.py:103} INFO - [2021-04-21 21:25:03,446] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:25:03,459] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2021-04-21 21:25:33,690] {scheduler_job.py:181} INFO - Started process (PID=6841) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:25:33,691] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:25:33,691] {logging_mixin.py:103} INFO - [2021-04-21 21:25:33,691] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:25:33,700] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:25:33,701] {logging_mixin.py:103} INFO - [2021-04-21 21:25:33,701] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:25:33,716] {logging_mixin.py:103} INFO - [2021-04-21 21:25:33,716] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:25:33,729] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:26:04,147] {scheduler_job.py:181} INFO - Started process (PID=6870) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:26:04,148] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:26:04,148] {logging_mixin.py:103} INFO - [2021-04-21 21:26:04,148] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:26:04,158] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:26:04,158] {logging_mixin.py:103} INFO - [2021-04-21 21:26:04,158] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:26:04,174] {logging_mixin.py:103} INFO - [2021-04-21 21:26:04,174] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:26:04,188] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.044 seconds
+[2021-04-21 21:26:39,754] {scheduler_job.py:181} INFO - Started process (PID=6909) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:26:39,754] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:26:39,755] {logging_mixin.py:103} INFO - [2021-04-21 21:26:39,755] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:26:39,813] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:26:39,814] {logging_mixin.py:103} INFO - [2021-04-21 21:26:39,813] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:26:39,893] {logging_mixin.py:103} INFO - [2021-04-21 21:26:39,893] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:26:39,954] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.219 seconds
+[2021-04-21 21:27:10,179] {scheduler_job.py:181} INFO - Started process (PID=6980) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:27:10,180] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:27:10,181] {logging_mixin.py:103} INFO - [2021-04-21 21:27:10,181] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:27:10,196] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:27:10,197] {logging_mixin.py:103} INFO - [2021-04-21 21:27:10,197] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:27:10,211] {logging_mixin.py:103} INFO - [2021-04-21 21:27:10,211] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:27:10,224] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.047 seconds
+[2021-04-21 21:27:40,687] {scheduler_job.py:181} INFO - Started process (PID=7008) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:27:40,689] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:27:40,689] {logging_mixin.py:103} INFO - [2021-04-21 21:27:40,689] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:27:40,698] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:27:40,699] {logging_mixin.py:103} INFO - [2021-04-21 21:27:40,699] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:27:40,714] {logging_mixin.py:103} INFO - [2021-04-21 21:27:40,714] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:27:40,729] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.045 seconds
+[2021-04-21 21:28:11,423] {scheduler_job.py:181} INFO - Started process (PID=7035) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:28:11,423] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:28:11,424] {logging_mixin.py:103} INFO - [2021-04-21 21:28:11,424] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:28:11,434] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:28:11,434] {logging_mixin.py:103} INFO - [2021-04-21 21:28:11,434] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:28:11,450] {logging_mixin.py:103} INFO - [2021-04-21 21:28:11,450] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:28:11,463] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:28:41,741] {scheduler_job.py:181} INFO - Started process (PID=7068) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:28:41,742] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:28:41,742] {logging_mixin.py:103} INFO - [2021-04-21 21:28:41,742] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:28:41,751] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:28:41,752] {logging_mixin.py:103} INFO - [2021-04-21 21:28:41,752] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:28:41,767] {logging_mixin.py:103} INFO - [2021-04-21 21:28:41,767] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:28:41,780] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2021-04-21 21:29:12,321] {scheduler_job.py:181} INFO - Started process (PID=7100) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:29:12,322] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:29:12,323] {logging_mixin.py:103} INFO - [2021-04-21 21:29:12,323] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:29:12,332] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:29:12,333] {logging_mixin.py:103} INFO - [2021-04-21 21:29:12,333] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:29:12,348] {logging_mixin.py:103} INFO - [2021-04-21 21:29:12,348] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:29:12,362] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:29:42,797] {scheduler_job.py:181} INFO - Started process (PID=7127) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:29:42,798] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:29:42,798] {logging_mixin.py:103} INFO - [2021-04-21 21:29:42,798] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:29:42,808] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:29:42,808] {logging_mixin.py:103} INFO - [2021-04-21 21:29:42,808] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:29:42,824] {logging_mixin.py:103} INFO - [2021-04-21 21:29:42,824] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:29:42,837] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:30:13,262] {scheduler_job.py:181} INFO - Started process (PID=7159) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:30:13,263] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:30:13,264] {logging_mixin.py:103} INFO - [2021-04-21 21:30:13,263] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:30:13,273] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:30:13,274] {logging_mixin.py:103} INFO - [2021-04-21 21:30:13,274] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:30:13,289] {logging_mixin.py:103} INFO - [2021-04-21 21:30:13,289] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:30:13,303] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.044 seconds
+[2021-04-21 21:30:43,829] {scheduler_job.py:181} INFO - Started process (PID=7186) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:30:43,830] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:30:43,831] {logging_mixin.py:103} INFO - [2021-04-21 21:30:43,831] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:30:43,840] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:30:43,841] {logging_mixin.py:103} INFO - [2021-04-21 21:30:43,841] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:30:43,856] {logging_mixin.py:103} INFO - [2021-04-21 21:30:43,856] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:30:43,870] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:31:04,831] {scheduler_job.py:181} INFO - Started process (PID=7205) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:31:04,832] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:31:04,833] {logging_mixin.py:103} INFO - [2021-04-21 21:31:04,833] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:31:04,842] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:31:04,842] {logging_mixin.py:103} INFO - [2021-04-21 21:31:04,842] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:31:04,857] {logging_mixin.py:103} INFO - [2021-04-21 21:31:04,857] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:31:04,878] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.049 seconds
+[2021-04-21 21:31:35,319] {scheduler_job.py:181} INFO - Started process (PID=7235) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:31:35,320] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:31:35,321] {logging_mixin.py:103} INFO - [2021-04-21 21:31:35,321] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:31:35,330] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:31:35,331] {logging_mixin.py:103} INFO - [2021-04-21 21:31:35,331] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:31:35,346] {logging_mixin.py:103} INFO - [2021-04-21 21:31:35,346] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:31:35,360] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:32:05,487] {scheduler_job.py:181} INFO - Started process (PID=7262) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:32:05,488] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:32:05,488] {logging_mixin.py:103} INFO - [2021-04-21 21:32:05,488] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:32:05,498] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:32:05,499] {logging_mixin.py:103} INFO - [2021-04-21 21:32:05,499] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:32:05,514] {logging_mixin.py:103} INFO - [2021-04-21 21:32:05,514] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:32:05,528] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.044 seconds
+[2021-04-21 21:32:36,791] {scheduler_job.py:181} INFO - Started process (PID=7289) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:32:36,792] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:32:36,792] {logging_mixin.py:103} INFO - [2021-04-21 21:32:36,792] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:32:36,801] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:32:36,802] {logging_mixin.py:103} INFO - [2021-04-21 21:32:36,802] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:32:36,818] {logging_mixin.py:103} INFO - [2021-04-21 21:32:36,818] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:32:36,831] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:33:06,959] {scheduler_job.py:181} INFO - Started process (PID=7315) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:33:06,960] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:33:06,960] {logging_mixin.py:103} INFO - [2021-04-21 21:33:06,960] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:33:06,970] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:33:06,971] {logging_mixin.py:103} INFO - [2021-04-21 21:33:06,971] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:33:06,987] {logging_mixin.py:103} INFO - [2021-04-21 21:33:06,987] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:33:07,000] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.044 seconds
+[2021-04-21 21:33:38,257] {scheduler_job.py:181} INFO - Started process (PID=7342) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:33:38,258] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:33:38,259] {logging_mixin.py:103} INFO - [2021-04-21 21:33:38,259] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:33:38,267] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:33:38,268] {logging_mixin.py:103} INFO - [2021-04-21 21:33:38,268] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:33:38,283] {logging_mixin.py:103} INFO - [2021-04-21 21:33:38,283] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:33:38,297] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:34:08,422] {scheduler_job.py:181} INFO - Started process (PID=7368) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:34:08,423] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:34:08,424] {logging_mixin.py:103} INFO - [2021-04-21 21:34:08,424] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:34:08,433] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:34:08,434] {logging_mixin.py:103} INFO - [2021-04-21 21:34:08,434] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:34:08,449] {logging_mixin.py:103} INFO - [2021-04-21 21:34:08,449] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:34:08,462] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:34:38,590] {scheduler_job.py:181} INFO - Started process (PID=7394) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:34:38,591] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:34:38,591] {logging_mixin.py:103} INFO - [2021-04-21 21:34:38,591] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:34:38,600] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:34:38,601] {logging_mixin.py:103} INFO - [2021-04-21 21:34:38,601] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:34:38,616] {logging_mixin.py:103} INFO - [2021-04-21 21:34:38,616] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:34:38,629] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:35:08,756] {scheduler_job.py:181} INFO - Started process (PID=7420) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:35:08,757] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:35:08,758] {logging_mixin.py:103} INFO - [2021-04-21 21:35:08,758] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:35:08,767] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:35:08,768] {logging_mixin.py:103} INFO - [2021-04-21 21:35:08,768] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:35:08,783] {logging_mixin.py:103} INFO - [2021-04-21 21:35:08,782] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:35:08,796] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:35:39,128] {scheduler_job.py:181} INFO - Started process (PID=7447) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:35:39,129] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:35:39,130] {logging_mixin.py:103} INFO - [2021-04-21 21:35:39,130] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:35:39,139] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:35:39,140] {logging_mixin.py:103} INFO - [2021-04-21 21:35:39,140] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:35:39,154] {logging_mixin.py:103} INFO - [2021-04-21 21:35:39,154] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:35:39,167] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:36:10,836] {scheduler_job.py:181} INFO - Started process (PID=7473) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:36:10,837] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:36:10,838] {logging_mixin.py:103} INFO - [2021-04-21 21:36:10,838] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:36:10,847] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:36:10,848] {logging_mixin.py:103} INFO - [2021-04-21 21:36:10,848] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:36:10,863] {logging_mixin.py:103} INFO - [2021-04-21 21:36:10,863] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:36:10,876] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:36:41,612] {scheduler_job.py:181} INFO - Started process (PID=7500) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:36:41,613] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:36:41,614] {logging_mixin.py:103} INFO - [2021-04-21 21:36:41,614] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:36:41,623] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:36:41,624] {logging_mixin.py:103} INFO - [2021-04-21 21:36:41,624] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:36:41,639] {logging_mixin.py:103} INFO - [2021-04-21 21:36:41,639] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:36:41,652] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:37:12,175] {scheduler_job.py:181} INFO - Started process (PID=7527) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:37:12,176] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:37:12,177] {logging_mixin.py:103} INFO - [2021-04-21 21:37:12,177] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:37:12,186] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:37:12,187] {logging_mixin.py:103} INFO - [2021-04-21 21:37:12,187] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:37:12,202] {logging_mixin.py:103} INFO - [2021-04-21 21:37:12,202] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:37:12,215] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:37:42,950] {scheduler_job.py:181} INFO - Started process (PID=7554) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:37:42,950] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:37:42,951] {logging_mixin.py:103} INFO - [2021-04-21 21:37:42,951] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:37:42,961] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:37:42,961] {logging_mixin.py:103} INFO - [2021-04-21 21:37:42,961] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:37:42,977] {logging_mixin.py:103} INFO - [2021-04-21 21:37:42,977] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:37:42,991] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.044 seconds
+[2021-04-21 21:38:13,612] {scheduler_job.py:181} INFO - Started process (PID=7580) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:38:13,613] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:38:13,614] {logging_mixin.py:103} INFO - [2021-04-21 21:38:13,613] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:38:13,622] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:38:13,623] {logging_mixin.py:103} INFO - [2021-04-21 21:38:13,623] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:38:13,638] {logging_mixin.py:103} INFO - [2021-04-21 21:38:13,638] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:38:13,651] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:38:44,178] {scheduler_job.py:181} INFO - Started process (PID=7607) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:38:44,179] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:38:44,180] {logging_mixin.py:103} INFO - [2021-04-21 21:38:44,180] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:38:44,189] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:38:44,190] {logging_mixin.py:103} INFO - [2021-04-21 21:38:44,190] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:38:44,205] {logging_mixin.py:103} INFO - [2021-04-21 21:38:44,204] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:38:44,218] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:39:14,948] {scheduler_job.py:181} INFO - Started process (PID=7637) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:39:14,949] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:39:14,950] {logging_mixin.py:103} INFO - [2021-04-21 21:39:14,950] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:39:14,960] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:39:14,961] {logging_mixin.py:103} INFO - [2021-04-21 21:39:14,960] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:39:14,976] {logging_mixin.py:103} INFO - [2021-04-21 21:39:14,976] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:39:14,990] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.045 seconds
+[2021-04-21 21:39:45,585] {scheduler_job.py:181} INFO - Started process (PID=7670) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:39:45,585] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:39:45,586] {logging_mixin.py:103} INFO - [2021-04-21 21:39:45,586] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:39:45,595] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:39:45,596] {logging_mixin.py:103} INFO - [2021-04-21 21:39:45,596] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:39:45,612] {logging_mixin.py:103} INFO - [2021-04-21 21:39:45,611] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:39:45,625] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:40:16,253] {scheduler_job.py:181} INFO - Started process (PID=7702) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:40:16,254] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:40:16,255] {logging_mixin.py:103} INFO - [2021-04-21 21:40:16,255] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:40:16,264] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:40:16,265] {logging_mixin.py:103} INFO - [2021-04-21 21:40:16,265] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:40:16,280] {logging_mixin.py:103} INFO - [2021-04-21 21:40:16,279] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:40:16,293] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:40:47,022] {scheduler_job.py:181} INFO - Started process (PID=7729) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:40:47,023] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:40:47,024] {logging_mixin.py:103} INFO - [2021-04-21 21:40:47,024] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:40:47,033] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:40:47,033] {logging_mixin.py:103} INFO - [2021-04-21 21:40:47,033] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:40:47,048] {logging_mixin.py:103} INFO - [2021-04-21 21:40:47,048] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:40:47,061] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2021-04-21 21:41:17,597] {scheduler_job.py:181} INFO - Started process (PID=7755) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:41:17,598] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:41:17,598] {logging_mixin.py:103} INFO - [2021-04-21 21:41:17,598] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:41:17,607] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:41:17,608] {logging_mixin.py:103} INFO - [2021-04-21 21:41:17,608] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:41:17,624] {logging_mixin.py:103} INFO - [2021-04-21 21:41:17,624] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:41:17,637] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:41:48,267] {scheduler_job.py:181} INFO - Started process (PID=7782) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:41:48,268] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:41:48,268] {logging_mixin.py:103} INFO - [2021-04-21 21:41:48,268] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:41:48,278] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:41:48,278] {logging_mixin.py:103} INFO - [2021-04-21 21:41:48,278] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:41:48,293] {logging_mixin.py:103} INFO - [2021-04-21 21:41:48,293] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:41:48,307] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:42:18,938] {scheduler_job.py:181} INFO - Started process (PID=7808) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:42:18,939] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:42:18,939] {logging_mixin.py:103} INFO - [2021-04-21 21:42:18,939] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:42:18,949] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:42:18,949] {logging_mixin.py:103} INFO - [2021-04-21 21:42:18,949] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:42:18,965] {logging_mixin.py:103} INFO - [2021-04-21 21:42:18,964] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:42:18,978] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:42:49,716] {scheduler_job.py:181} INFO - Started process (PID=7836) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:42:49,717] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:42:49,717] {logging_mixin.py:103} INFO - [2021-04-21 21:42:49,717] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:42:49,727] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:42:49,727] {logging_mixin.py:103} INFO - [2021-04-21 21:42:49,727] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:42:49,743] {logging_mixin.py:103} INFO - [2021-04-21 21:42:49,743] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:42:49,756] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:43:20,274] {scheduler_job.py:181} INFO - Started process (PID=7862) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:43:20,275] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:43:20,276] {logging_mixin.py:103} INFO - [2021-04-21 21:43:20,276] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:43:20,285] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:43:20,286] {logging_mixin.py:103} INFO - [2021-04-21 21:43:20,285] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:43:20,300] {logging_mixin.py:103} INFO - [2021-04-21 21:43:20,300] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:43:20,313] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.041 seconds
+[2021-04-21 21:43:51,047] {scheduler_job.py:181} INFO - Started process (PID=7889) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:43:51,048] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:43:51,048] {logging_mixin.py:103} INFO - [2021-04-21 21:43:51,048] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:43:51,057] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:43:51,058] {logging_mixin.py:103} INFO - [2021-04-21 21:43:51,058] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:43:51,073] {logging_mixin.py:103} INFO - [2021-04-21 21:43:51,073] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:43:51,087] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:44:21,717] {scheduler_job.py:181} INFO - Started process (PID=7915) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:44:21,718] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:44:21,719] {logging_mixin.py:103} INFO - [2021-04-21 21:44:21,719] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:44:21,728] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:44:21,729] {logging_mixin.py:103} INFO - [2021-04-21 21:44:21,729] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:44:21,744] {logging_mixin.py:103} INFO - [2021-04-21 21:44:21,743] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:44:21,757] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:44:52,282] {scheduler_job.py:181} INFO - Started process (PID=7942) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:44:52,283] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:44:52,284] {logging_mixin.py:103} INFO - [2021-04-21 21:44:52,284] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:44:52,293] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:44:52,294] {logging_mixin.py:103} INFO - [2021-04-21 21:44:52,294] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:44:52,309] {logging_mixin.py:103} INFO - [2021-04-21 21:44:52,309] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:44:52,323] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:45:23,053] {scheduler_job.py:181} INFO - Started process (PID=7970) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:45:23,054] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:45:23,054] {logging_mixin.py:103} INFO - [2021-04-21 21:45:23,054] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:45:23,063] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:45:23,064] {logging_mixin.py:103} INFO - [2021-04-21 21:45:23,064] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:45:23,079] {logging_mixin.py:103} INFO - [2021-04-21 21:45:23,079] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:45:23,092] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:45:53,712] {scheduler_job.py:181} INFO - Started process (PID=7997) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:45:53,713] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:45:53,713] {logging_mixin.py:103} INFO - [2021-04-21 21:45:53,713] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:45:53,723] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:45:53,724] {logging_mixin.py:103} INFO - [2021-04-21 21:45:53,724] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:45:53,739] {logging_mixin.py:103} INFO - [2021-04-21 21:45:53,739] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:45:53,752] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:46:24,356] {scheduler_job.py:181} INFO - Started process (PID=8023) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:46:24,357] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:46:24,358] {logging_mixin.py:103} INFO - [2021-04-21 21:46:24,357] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:46:24,367] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:46:24,368] {logging_mixin.py:103} INFO - [2021-04-21 21:46:24,368] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:46:24,383] {logging_mixin.py:103} INFO - [2021-04-21 21:46:24,383] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:46:24,397] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:46:55,129] {scheduler_job.py:181} INFO - Started process (PID=8050) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:46:55,130] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:46:55,131] {logging_mixin.py:103} INFO - [2021-04-21 21:46:55,131] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:46:55,141] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:46:55,141] {logging_mixin.py:103} INFO - [2021-04-21 21:46:55,141] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:46:55,157] {logging_mixin.py:103} INFO - [2021-04-21 21:46:55,157] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:46:55,171] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.044 seconds
+[2021-04-21 21:47:25,792] {scheduler_job.py:181} INFO - Started process (PID=8076) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:47:25,793] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:47:25,793] {logging_mixin.py:103} INFO - [2021-04-21 21:47:25,793] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:47:25,802] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:47:25,803] {logging_mixin.py:103} INFO - [2021-04-21 21:47:25,803] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:47:25,818] {logging_mixin.py:103} INFO - [2021-04-21 21:47:25,818] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:47:25,832] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
+[2021-04-21 21:47:56,357] {scheduler_job.py:181} INFO - Started process (PID=8103) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:47:56,358] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:47:56,358] {logging_mixin.py:103} INFO - [2021-04-21 21:47:56,358] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:47:56,368] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:47:56,368] {logging_mixin.py:103} INFO - [2021-04-21 21:47:56,368] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:47:56,384] {logging_mixin.py:103} INFO - [2021-04-21 21:47:56,383] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:47:56,397] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:48:26,934] {scheduler_job.py:181} INFO - Started process (PID=8130) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:48:26,935] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:48:26,935] {logging_mixin.py:103} INFO - [2021-04-21 21:48:26,935] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:48:26,944] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:48:26,945] {logging_mixin.py:103} INFO - [2021-04-21 21:48:26,945] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:48:26,961] {logging_mixin.py:103} INFO - [2021-04-21 21:48:26,960] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:48:26,974] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.043 seconds
+[2021-04-21 21:48:57,582] {scheduler_job.py:181} INFO - Started process (PID=8157) to work on /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:48:57,583] {scheduler_job.py:629} INFO - Processing file /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2021-04-21 21:48:57,584] {logging_mixin.py:103} INFO - [2021-04-21 21:48:57,584] {dagbag.py:440} INFO - Filling up the DagBag from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:48:57,593] {scheduler_job.py:639} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py
+[2021-04-21 21:48:57,594] {logging_mixin.py:103} INFO - [2021-04-21 21:48:57,594] {dag.py:1813} INFO - Sync 1 DAGs
+[2021-04-21 21:48:57,609] {logging_mixin.py:103} INFO - [2021-04-21 21:48:57,609] {dag.py:2266} INFO - Setting next_dagrun for example_task_group to 2021-04-19 00:00:00+00:00
+[2021-04-21 21:48:57,621] {scheduler_job.py:189} INFO - Processing /home/ec2-user/.local/lib/python3.7/site-packages/airflow/example_dags/example_task_group.py took 0.042 seconds
